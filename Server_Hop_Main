@@ -1,0 +1,2 @@
+local module = loadstring(game:HttpGet"https://raw.githubusercontent.com/raw-scriptpastebin/FE/main/Server_Hop_Settings")()
+module:Teleport(game.PlaceId)
